@@ -1,0 +1,14 @@
+C:\Users\melih\source\repos\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.exe.config
+C:\Users\melih\source\repos\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.exe
+C:\Users\melih\source\repos\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.pdb
+C:\Users\melih\source\repos\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.exe
+C:\Users\melih\source\repos\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.pdb
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.exe.config
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.exe
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\bin\Debug\araçkiralamasistemiproje.pdb
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.csproj.AssemblyReference.cache
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.exe
+C:\Users\melih\OneDrive\Masaüstü\NTPproje\araçkiralamasistemiproje\obj\Debug\araçkiralamasistemiproje.pdb
